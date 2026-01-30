@@ -70,15 +70,15 @@ nav {
   align-items: center;
   padding: 15px 20px;
   background-color: #f8f9fa;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
-  height: 60px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  height: 50px;
   position: relative;
 }
 
 .logo img {
-  height: 40px;
+  height: 35px;
   width: auto;
-  border-radius: 12px;
+  border-radius: 20px;
 }
 
 /* 汉堡菜单按钮 - 默认隐藏 */
@@ -146,7 +146,7 @@ nav {
   width: 100%;
   height: 33px;
   padding-left: 2.5rem;
-  box-shadow: 0 0 0 1.5px #2b2c37, 0 0 25px -17px #000;
+  box-shadow: 0 0 0 0.5px #2b2c37, 0 0 25px -17px #000;
   border: 0;
   border-radius: 12px;
   background-color: #ffffff;
@@ -195,7 +195,7 @@ nav {
     transform: translateY(-150%);
     opacity: 0;
     visibility: hidden;
-    transition: all 0.3s ease;
+    transition: all 0.6s ease;
     z-index: 9;
   }
 
