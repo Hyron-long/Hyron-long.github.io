@@ -1,0 +1,17 @@
+{
+  "_comment": "文章配置文件 - 如何添加/删除/修改文章请查看 ARTICLES_CONFIG.md",
+  
+  "_example_1_chinese": {
+    "description": "示例 1：中文标题文章（复制以下对象到数组中，删除前面的下划线）",
+    "filename": "我的新文章.md",
+    "slug": "我的新文章",
+    "title": "我的新文章标题"
+  },
+  
+  "_example_2_english_slug": {
+    "description": "示例 2：英文 slug 文章（复制以下对象到数组中，删除前面的下划线）",
+    "filename": "my-new-article.md",
+    "slug": "my-new-article",
+    "title": "如何搭建个人博客"
+  }
+}
