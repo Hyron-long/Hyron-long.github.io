@@ -6,7 +6,8 @@
     "filename": "我的新文章.md",
     "slug": "我的新文章",
     "title": "我的新文章标题",
-    "category": "技术"
+    "category": "技术",
+    "date": "2026-04-15"
   },
   
   "_example_2_english_slug": {
@@ -14,6 +15,7 @@
     "filename": "my-new-article.md",
     "slug": "my-new-article",
     "title": "如何搭建个人博客",
-    "category": "前端"
+    "category": "前端",
+    "date": "2026-04-12"
   }
 }

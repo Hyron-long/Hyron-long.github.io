@@ -9,7 +9,8 @@
   "filename": "文章文件名.md",
   "slug": "文章URL标识",
   "title": "文章标题",
-  "category": "文章分类"
+  "category": "文章分类",
+  "date": "发布日期"
 }
 ```
 
@@ -21,6 +22,7 @@
 | `slug`     | URL 路径标识（用于生成文章链接，建议使用小写字母和连字符）                       | `my-first-post`        |
 | `title`    | 文章显示标题（可以包含中文和特殊字符）                                           | `我的第一篇文章`       |
 | `category` | 文章分类（可选，默认为"技术"）                                                   | `技术`、`前端`、`生活` |
+| `date`     | 发布日期（可选，格式：YYYY-MM-DD，用于文章排序，时间近的靠前）                   | `2026-04-15`           |
 
 ## 添加新文章步骤
 
@@ -38,13 +40,15 @@
     "filename": "existing-article.md",
     "slug": "existing-article",
     "title": "已有文章",
-    "category": "技术"
+    "category": "技术",
+    "date": "2026-04-10"
   },
   {
     "filename": "my-new-article.md",
     "slug": "my-new-article",
     "title": "我的新文章",
-    "category": "前端"
+    "category": "前端",
+    "date": "2026-04-15"
   }
 ]
 ```
@@ -68,7 +72,8 @@ GitHub Actions 会自动构建并部署。
   "filename": "vue-composition-api-guide.md",
   "slug": "vue-composition-api-guide",
   "title": "Vue Composition API 完全指南",
-  "category": "前端"
+  "category": "前端",
+  "date": "2026-04-15"
 }
 ```
 
@@ -79,7 +84,8 @@ GitHub Actions 会自动构建并部署。
   "filename": "如何搭建个人博客.md",
   "slug": "如何搭建个人博客",
   "title": "如何搭建个人博客：从零到上线",
-  "category": "技术"
+  "category": "技术",
+  "date": "2026-04-12"
 }
 ```
 
