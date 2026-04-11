@@ -2,11 +2,25 @@
   {
     "filename": "markdown-语法入门.md",
     "slug": "markdown-语法入门",
-    "title": "Markdown 语法入门"
+    "title": "Markdown 语法入门",
+    "category": "技术"
   },
   {
     "filename": "Vue项目构建.md",
     "slug": "vue项目构建",
-    "title": "Vue项目构建"
+    "title": "Vue项目构建",
+    "category": "技术"
+  },
+  {
+    "filename": "生活随笔.md",
+    "slug": "生活随笔",
+    "title": "生活随笔",
+    "category": "生活"
+  },
+  {
+    "filename": "Vue学习笔记.md",
+    "slug": "Vue学习笔记",
+    "title": "Vue学习笔记",
+    "category": "前端"
   }
 ]

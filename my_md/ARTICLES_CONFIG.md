@@ -63,7 +63,8 @@ GitHub Actions 会自动构建并部署。
 {
   "filename": "vue-composition-api-guide.md",
   "slug": "vue-composition-api-guide",
-  "title": "Vue Composition API 完全指南"
+  "title": "Vue Composition API 完全指南",
+  "category": "前端"
 }
 ```
 
@@ -73,7 +74,8 @@ GitHub Actions 会自动构建并部署。
 {
   "filename": "如何搭建个人博客.md",
   "slug": "如何搭建个人博客",
-  "title": "如何搭建个人博客：从零到上线"
+  "title": "如何搭建个人博客：从零到上线",
+  "category": "技术"
 }
 ```
 
