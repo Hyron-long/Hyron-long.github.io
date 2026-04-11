@@ -1,0 +1,26 @@
+[
+  {
+    "name": "C",
+    "percentage": 60
+  },
+  {
+    "name": "Python",
+    "percentage": 50
+  },
+  {
+    "name": "Java",
+    "percentage": 55
+  },
+  {
+    "name": "Vue",
+    "percentage": 70
+  },
+  {
+    "name": "JavaScript",
+    "percentage": 75
+  },
+  {
+    "name": "TypeScript",
+    "percentage": 65
+  }
+]

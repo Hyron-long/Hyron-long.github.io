@@ -24,6 +24,61 @@
 | `category` | 文章分类（可选，默认为"技术"）                                                   | `技术`、`前端`、`生活` |
 | `date`     | 发布日期（可选，格式：YYYY-MM-DD，用于文章排序，时间近的靠前）                   | `2026-04-15`           |
 
+---
+
+# 技术栈配置说明
+
+## tech-stack.json 配置格式
+
+`tech-stack.json` 文件用于管理侧边栏的技术栈展示。每项技术需要配置以下字段：
+
+```json
+{
+  "name": "技术名称",
+  "percentage": 掌握程度百分比
+}
+```
+
+## 字段说明
+
+| 字段         | 说明                           | 示例            |
+| ------------ | ------------------------------ | --------------- |
+| `name`       | 技术名称（可以包含中文和英文） | `Vue`、`Python` |
+| `percentage` | 掌握程度（0-100 之间的整数）   | `75`            |
+
+## 修改技术栈步骤
+
+### 1. 编辑 tech-stack.json
+
+在 `public/my_md/tech-stack.json` 中修改或添加技术：
+
+```json
+[
+  {
+    "name": "C",
+    "percentage": 60
+  },
+  {
+    "name": "Python",
+    "percentage": 50
+  },
+  {
+    "name": "Vue",
+    "percentage": 70
+  }
+]
+```
+
+### 2. 提交并部署
+
+```bash
+git add .
+git commit -m "Update: tech stack"
+git push
+```
+
+GitHub Actions 会自动构建并部署。
+
 ## 添加新文章步骤
 
 ### 1. 创建 Markdown 文件
