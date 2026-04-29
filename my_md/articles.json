@@ -13,20 +13,7 @@
     "category": "技术",
     "date": "2026-04-08"
   },
-  {
-    "filename": "生活/生活随笔.md",
-    "slug": "生活随笔",
-    "title": "生活随笔",
-    "category": "生活",
-    "date": "2026-04-12"
-  },
-  {
-    "filename": "前端/Vue学习笔记.md",
-    "slug": "Vue学习笔记",
-    "title": "Vue学习笔记",
-    "category": "前端",
-    "date": "2026-04-15"
-  },
+  
   {
     "filename": "概率论与数理统计/概率论基础笔记.md",
     "slug": "概率论基础笔记",
