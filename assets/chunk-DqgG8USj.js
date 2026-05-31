@@ -1,0 +1,1 @@
+import{S as e,s as t,t as n,u as r}from"./chunk-CuWRoweg.js";var i={},a={class:`myapp`};function o(n,i){return e(),r(`div`,a,[...i[0]||=[t(`h1`,null,`My App`,-1),t(`p`,null,`This is a simple Vue.js application.`,-1)]])}var s=n(i,[[`render`,o]]);export{s as default};
