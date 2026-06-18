@@ -13,7 +13,6 @@
     "category": "技术",
     "date": "2026-04-08"
   },
-  
   {
     "filename": "概率论与数理统计/概率论基础笔记.md",
     "slug": "概率论基础笔记",
@@ -27,5 +26,152 @@
     "title": "牛客题霸——SQL入门篇知识点总结",
     "category": "技术",
     "date": "2026-04-09"
+  },
+  {
+    "filename": "常用工具/ssh.md",
+    "slug": "ssh-密钥生成与绑定",
+    "title": "SSH 密钥生成与绑定",
+    "category": "常用工具",
+    "date": "2026-06-10"
+  },
+  {
+    "filename": "常用工具/linux常用命令.md",
+    "slug": "linux常用命令",
+    "title": "Linux 常用命令速查表",
+    "category": "常用工具",
+    "date": "2026-06-10"
+  },
+  {
+    "filename": "常用工具/git.md",
+    "slug": "git使用教程",
+    "title": "Git 使用教程",
+    "category": "常用工具",
+    "date": "2026-06-10"
+  },
+  {
+    "filename": "常用工具/Homebrew.md",
+    "slug": "homebrew",
+    "title": "Homebrew 使用指南",
+    "category": "常用工具",
+    "date": "2026-06-10"
+  },
+  {
+    "filename": "常用工具/oh_my_zsh.md",
+    "slug": "oh-my-zsh",
+    "title": "Oh My Zsh 配置指南",
+    "category": "常用工具",
+    "date": "2026-06-10"
+  },
+  {
+    "filename": "计算机网络/第一章概述.md",
+    "slug": "计算机网络-第一章概述",
+    "title": "计算机网络 — 第一章 概述",
+    "category": "计算机网络",
+    "date": "2026-06-10"
+  },
+  {
+    "filename": "计算机网络/第二章物理层.md",
+    "slug": "计算机网络-第二章物理层",
+    "title": "计算机网络 — 第二章 物理层",
+    "category": "计算机网络",
+    "date": "2026-06-10"
+  },
+  {
+    "filename": "计算机网络/第三章数据链路层.md",
+    "slug": "计算机网络-第三章数据链路层",
+    "title": "计算机网络 — 第三章 数据链路层",
+    "category": "计算机网络",
+    "date": "2026-06-10"
+  },
+  {
+    "filename": "计算机网络/第四章网络层.md",
+    "slug": "计算机网络-第四章网络层",
+    "title": "计算机网络 — 第四章 网络层",
+    "category": "计算机网络",
+    "date": "2026-06-10"
+  },
+  {
+    "filename": "计算机网络/第五章运输层.md",
+    "slug": "计算机网络-第五章运输层",
+    "title": "计算机网络 — 第五章 运输层",
+    "category": "计算机网络",
+    "date": "2026-06-10"
+  },
+  {
+    "filename": "计算机网络/第六章应用层.md",
+    "slug": "计算机网络-第六章应用层",
+    "title": "计算机网络 — 第六章 应用层",
+    "category": "计算机网络",
+    "date": "2026-06-10"
+  },
+  {
+    "filename": "数据库/数据库系统概论-第1章-绪论.md",
+    "slug": "数据库系统概论-第1章-绪论",
+    "title": "数据库系统概论 — 第1章 绪论",
+    "category": "数据库",
+    "date": "2026-06-10"
+  },
+  {
+    "filename": "数据库/数据库系统概论-第2章-关系模型.md",
+    "slug": "数据库系统概论-第2章-关系模型",
+    "title": "数据库系统概论 — 第2章 关系模型",
+    "category": "数据库",
+    "date": "2026-06-10"
+  },
+  {
+    "filename": "数据库/数据库系统概论-第3章-SQL.md",
+    "slug": "数据库系统概论-第3章-sql",
+    "title": "数据库系统概论 — 第3章 SQL",
+    "category": "数据库",
+    "date": "2026-06-10"
+  },
+  {
+    "filename": "数据库/Mongodb.md",
+    "slug": "mongodb",
+    "title": "MongoDB 入门指南",
+    "category": "数据库",
+    "date": "2026-06-10"
+  },
+  {
+    "filename": "编程语言/python/基础语法.md",
+    "slug": "python基础语法",
+    "title": "Python 基础语法入门指南",
+    "category": "编程语言",
+    "date": "2026-06-10"
+  },
+  {
+    "filename": "编程语言/python/numpy.md",
+    "slug": "numpy教程",
+    "title": "NumPy 完全入门教程",
+    "category": "编程语言",
+    "date": "2026-06-10"
+  },
+  {
+    "filename": "编程语言/python/面向对象.md",
+    "slug": "python面向对象",
+    "title": "Python 面向对象编程完全教程",
+    "category": "编程语言",
+    "date": "2026-06-10"
+  },
+  {
+    "filename": "编程语言/SQL/mysql命令.md",
+    "slug": "mysql命令速查表",
+    "title": "MySQL 终端命令速查表",
+    "category": "编程语言",
+    "date": "2026-06-10"
+  },
+  {
+    "filename": "题目.md",
+    "slug": "题目汇总",
+    "title": "题目汇总",
+    "category": "其他",
+    "date": "2026-06-10"
+  },
+  {
+    "filename": "vmdeepseek.md",
+    "slug": "deepseek配置",
+    "title": "DeepSeek API 配置指南",
+    "category": "其他",
+    "date": "2026-06-10"
   }
 ]
